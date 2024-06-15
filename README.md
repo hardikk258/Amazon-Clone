@@ -7,7 +7,7 @@ This project is a clone of Amazon's homepage created using HTML, CSS, and JavaSc
 
 ## Demo
 
-You can see a live demo of the game here:- https://amazon-clone-op.vercel.app/
+You can see a live demo here:- https://amazon-clone-op.vercel.app/
 
 ## Features
 
